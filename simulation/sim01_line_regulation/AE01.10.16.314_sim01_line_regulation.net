@@ -1,0 +1,7 @@
+*line regulation
+.include ../AE01.10.16.314.cir
+.param VIN=10
+.dc V2 {-VIN} {VIN} 0.001
+.option noopiter
+.backanno
+.end
